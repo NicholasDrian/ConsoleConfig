@@ -19,3 +19,5 @@ match white_space /[\t ]/
 
 set list
 set listchars=tab:>-,space:·
+
+set spell
